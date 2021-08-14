@@ -1,0 +1,39 @@
+{
+  "name": "finwallapp",
+  "short_name": "finwallapp",
+  "start_url": "splash.html",
+  "display": "fullscreen",
+  "background_color": "#6500D8",
+  "theme_color": "#6500D8",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://media.cdnandroid.com/item_images/934957/imagen-spotv-now-i-i-i-ee-ee-i-i-ee-ee-ee-i-i-i-i-i-e-0ori.jpg",
+      "type": "image/png", "sizes": "72x72"
+    },
+    {
+      "src": "https://media.cdnandroid.com/item_images/934957/imagen-spotv-now-i-i-i-ee-ee-i-i-ee-ee-ee-i-i-i-i-i-e-0ori.jpg",
+      "type": "image/png", "sizes": "96x96"
+    },
+    {
+      "src": "https://media.cdnandroid.com/item_images/934957/imagen-spotv-now-i-i-i-ee-ee-i-i-ee-ee-ee-i-i-i-i-i-e-0ori.jpg",
+      "type": "image/png", "sizes": "144x144"
+    },
+    {
+      "src": "https://media.cdnandroid.com/item_images/934957/imagen-spotv-now-i-i-i-ee-ee-i-i-ee-ee-ee-i-i-i-i-i-e-0ori.jpg",
+      "type": "image/png", "sizes": "152x152"
+    },
+    {
+      "src": "https://media.cdnandroid.com/item_images/934957/imagen-spotv-now-i-i-i-ee-ee-i-i-ee-ee-ee-i-i-i-i-i-e-0ori.jpg",
+      "type": "image/png", "sizes": "180x180"
+    },
+    {
+      "src": "https://media.cdnandroid.com/item_images/934957/imagen-spotv-now-i-i-i-ee-ee-i-i-ee-ee-ee-i-i-i-i-i-e-0ori.jpg",
+      "type": "image/png", "sizes": "192x192"
+    },
+    {
+      "src": "https://media.cdnandroid.com/item_images/934957/imagen-spotv-now-i-i-i-ee-ee-i-i-ee-ee-ee-i-i-i-i-i-e-0ori.jpg",
+      "type": "image/png", "sizes": "512x512"
+    }
+  ]
+}
